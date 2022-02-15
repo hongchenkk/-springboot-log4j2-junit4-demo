@@ -1,0 +1,6 @@
+项目的目的：springcloud集成log4j2日志框架、junit4单元测的demo项目
+1.该demo项目要求是springboot纯净的，不集成任何的springcloud
+2.该项目集成log4j2为日志框架，junit4为单元测试框架，有lomok，有devtools，有web框架
+3.无需集成mysql数据库
+4.项目取名叫springboot-log4j2-junit4-demo
+5.放到个人github，做其他测试项目时，可以拷贝或者参照进行修改
